@@ -1,0 +1,10 @@
+<svg width="320" height="96" viewBox="0 0 320 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Veridane Studio logo</title>
+  <desc id="desc">A professional black and white geometric VS monogram with Veridane Studio wordmark.</desc>
+  <rect x="2" y="2" width="92" height="92" rx="18" fill="#050505" stroke="#fff" stroke-width="4"/>
+  <path d="M23 27L39.8 69H46.2L63 27H54.8L43.2 58.4L31.6 27H23Z" fill="#fff"/>
+  <path d="M69.8 27.2C62.5 27.2 58.1 31 58.1 36.6C58.1 48.2 77.3 44.3 77.3 53.1C77.3 57.1 73.8 59.3 68.9 59.3C64.5 59.3 60.8 57.8 57.8 55.2L53.6 61.2C57.3 64.7 62.9 66.9 68.9 66.9C78.5 66.9 85.4 61.9 85.4 53.1C85.4 39.7 66.3 43.8 66.3 36.4C66.3 34.2 68.3 32.9 71.4 32.9C75.3 32.9 78.3 34.2 81.1 36.3L84.9 30.1C80.9 28.2 75.7 27.2 69.8 27.2Z" fill="#fff"/>
+  <path d="M113 28H119.8L138.5 70H130.7L126.8 60.6H105.8L101.9 70H94.4L113 28ZM108.5 54.1H124.1L116.3 35.5L108.5 54.1Z" fill="#050505"/>
+  <text x="148" y="47" fill="#050505" font-family="Inter, Arial, Helvetica, sans-serif" font-size="24" font-weight="800" letter-spacing="0.5">VERIDANE</text>
+  <text x="150" y="70" fill="#555" font-family="Inter, Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="4">STUDIO</text>
+</svg>
